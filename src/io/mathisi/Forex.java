@@ -25,6 +25,9 @@ public class Forex {
             case "RUB":
                 rate = 89.9825;
                 break;
+            case "RWF":
+                rate = 1052.5;
+                break;
             default:
                 rate = 1;
         }
